@@ -21,6 +21,6 @@ Optionally, include some extra analysis or functionalities of your choice. A few
 - Scale/normalize key metrics and create a composite indicator of development activity
 - Identify existing parcel land uses and buildings to understand how the build landscape is changing
 
-Please do not go overboard. We just want to get a flavor of your coding style and analytical approach. We will run the notebook in order so make sure you don't have any bugs!
+Please do not spend more than two hours on this test. We do not want you to go overboard! The objective of this test is to get a flavor for your coding style and analytical approach. We will run the notebook in order so make sure you don't have any bugs!
 
 None of your code will be used by WXY for project work.
