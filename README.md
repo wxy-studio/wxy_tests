@@ -4,7 +4,7 @@ To take a test, please clone the relevant branch and send us back a repo with a 
 
 ## Geospatial Python Test
 
-Please analyze and visualize Active Major Construction permits in New York City in a jupyter notebook. The data can be downloaded [here](https://nycdob.github.io/DOB_Dashboards/layouts/two-and-one/Active_ConstructionTM_withGraphs).
+Please analyze and visualize Active Major Construction permits in New York City in a jupyter notebook (New Building or Major Alteration A1). The data can be downloaded [here](https://data.cityofnewyork.us/Housing-Development/DOB-Permit-Issuance/ipu4-2q9a).
 
 At a minimum:
 
