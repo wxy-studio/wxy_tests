@@ -1,6 +1,6 @@
 # wxy_tests
 
-To take a test, please clone the relevant branch and send us back a repo with a completed notebook!
+To take a test, please clone the relevant branch and send us back a link to a repo with a completed notebook!
 
 ## Geospatial Python Test
 
@@ -8,10 +8,12 @@ Please analyze and visualize Active Major Construction permits in New York City 
 
 At a minimum:
 
+- Load and clean the data, demonstrate you have a grasp of the data and its contents
 - Create a summary table with key metrics
-- Visually explore key metrics, including at least one time series graph
+- Visually explore key metrics, including at least one time series graph and one map
 - Perform a spatial join against another layer of your choice (e.g. Census layers, transit walksheds, etc.)
 - Create a summary table making use of the joined data points
+- Export one graph and one chart that are presentation-ready or could be slightly refined in Adobe CC 
 - Export your final data to excel and shapefile
 
 
