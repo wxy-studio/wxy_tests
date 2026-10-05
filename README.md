@@ -1,14 +1,17 @@
 # wxy_tests
 
-This is a brief assignment to assit in the hiring process for urban analysts at WXY. Please complete parts A and B below. Please clone this branch and send us back a link to a repo with answers to part one in a markdown file & a notebook that shows your work on part B. 
+This is a brief assignment to assist in the hiring process for urban analysts at WXY. Please complete parts A and B below. Please clone this branch and send us back a link to a repo with answers to part one in a markdown file & a notebook that shows your work on part B. 
 
 Please do not spend more than two-three hours on this assignment. We do not want you to go overboard! 
 
+Please do not us AI for this exercise. We use AI in some contexts, but this is about your approach, how you frame problems, and your coding style. We want to see how you think and how you work.
+
 ## A. Web Development 
+
 
 1. Please share a link to a code base for a website you have built or substantively contributed to. If it was a collaboration please provide a clear description of your role. 
 
-2. In no more than a few paragraphs, please describe how you would approach developing a website for the scenario described below. Feel free to include simple diagrams of the architecture as helpful.  
+2. In no more than a few paragraphs, please describe how you would approach developing a website for the scenario described below. Feel free to include simple diagrams of the architecture as helpful.  We want to understand how you approach system design in web development, the tools you are familiar with, and how you would approach this problem from start to finish. Feel free to add additional detail on parts where you have strong opinions or experience, including libraries, frameworks, and best practices. Feel free to do research; however, we are most interested on you drawing on your own experience and knowledge, and the specific benefits or challenges your experience would lend in addressing this problem.
 
     You are working with the NYC Department of City Planning on a neighborhood plan. As part of the process, we are developing a website to solicit community input on what the plan should include. The website must have an interactive map with context layers and a feature that allows community members to add  comments to the map to share ideas for the plan. The comments should not be publicly visible on the site but must be saved along with their location information so that they can later be analyzed. 
 
@@ -26,9 +29,10 @@ At a minimum:
 - Perform a spatial join against another layer of your choice (e.g. Census layers, transit walksheds, etc.)
 - Create a summary table making use of the joined data points
 - Export one graph and one chart that are presentation-ready or could be slightly refined in Adobe CC 
-- Export your final data to excel and shapefile
+- Export your final data to excel
+- In the final cell(s) of the notebook, indicate your assumptions, the research questions you were pursuing, and what your analysis revealed.
 
-The objective of this question is to get a flavor for your coding style and analytical approach. We will run the notebook, so make sure you don't have any bugs!
+The objective of this question is to get a flavor for your coding style and analytical approach. We will run the notebook, so make sure you don't have any bugs! We should be able to run the notebook using raw data from the link above.
 
 None of your code will be used by WXY for project work.
 
