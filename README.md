@@ -36,3 +36,6 @@ The objective of this question is to get a flavor for your coding style and anal
 
 None of your code will be used by WXY for project work.
 
+## C. Use of LLMs
+
+In a brief paragraph please describe any experience you have to date using large language models (LLMs) for code development and/or refinement. Please describe use cases you have encountered in your work and how you have approached using these tools. 
