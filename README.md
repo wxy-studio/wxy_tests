@@ -32,7 +32,7 @@ At a minimum:
 - Export your final data to excel
 - In the final cell(s) of the notebook, indicate your assumptions, the research questions you were pursuing, and what your analysis revealed.
 
-The objective of this question is to get a flavor for your coding style and analytical approach. Please don't spend more than 1-2 hours on the assignment. We will run the notebook, so make sure it can be run sequentially! We should be able to run the notebook using raw data from the link above.
+The objective of this question is to get a flavor for your coding style and analytical approach. Please don't spend more than 1-2 hours on the assignment. We will run the notebook, so make sure it can be run sequentially using raw data from the link above.
 
 None of your code will be used by WXY for project work.
 
