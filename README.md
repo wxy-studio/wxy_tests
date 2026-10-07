@@ -28,7 +28,7 @@ At a minimum:
 - Export one graph and one chart that are presentation-ready or could be slightly refined in Adobe CC 
 - Export your final data to excel and shapefile
 
-The objective of this question is to get a flavor for your coding style and analytical approach. We will run the notebook, so make sure you don't have any bugs!
+The objective of this question is to get a flavor for your coding style and analytical approach. Please don't spend more than 1-2 hours on the assignment. We will run the notebook, so make sure it can be run sequentially!
 
 None of your code will be used by WXY for project work.
 
